@@ -1,1 +1,0 @@
-export default function Home(){return <div style={{padding:40,fontFamily:'sans-serif'}}><h1>New York Tickets Transcripts</h1><p>Use a transcript link to view a transcript.</p></div>}
